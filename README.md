@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Cecily 👋
+
+I'm a curious and inquisitive Makers Graduate with a love for building useful things! Languages includes Ruby and Javascript, including React.
+
+
 
 <!--
 **Cecily-R/Cecily-R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
