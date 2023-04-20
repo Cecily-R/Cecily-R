@@ -1,6 +1,6 @@
 ### Hi there, I'm Cecily 👋
 
-I'm a curious and inquisitive Makers Graduate with a love for building useful things! Languages includes Ruby and Javascript, including React.
+I'm a curious and inquisitive Makers Graduate with a love for building useful things! Languages includes Ruby and Javascript, including React and Vue.js.
 
 
 
