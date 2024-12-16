@@ -1,6 +1,6 @@
 ### Hi there, I'm Cecily 👋
 
-I'm a curious and inquisitive Makers Graduate with a love for building useful things! Languages include Ruby and Javascript, including React and Vue.js.
+Full-stack developer experienced in Typescript, React, and Ruby. I pride myself on my positive attitude, my love for learning, and my ability to meet user needs quickly while writing maintainable code.
 
 
 
